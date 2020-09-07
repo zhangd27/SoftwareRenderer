@@ -1,0 +1,14 @@
+.DS_Store
+Makefile
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+log.txt
+build
+publish
+.vscode/
+*.o
+*.db
+*.exe
+*.dll
+*.pyc
