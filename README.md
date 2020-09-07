@@ -23,7 +23,7 @@ cmake -G "MinGW Makefiles" ../
 mingw32-make
 
 cd ../publish
-./Renderer
+Renderer.exe
 ```
 
 #### MacOS :
